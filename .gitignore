@@ -1,0 +1,14 @@
+# Source code & build files
+*.cs
+*.csproj
+*.sln
+bin/
+obj/
+*.dll
+*.pdb
+*.exe
+*.zip
+*.log
+*.tmp
+.vs/
+.idea/
