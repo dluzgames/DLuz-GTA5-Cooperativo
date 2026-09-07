@@ -1,14 +1,11 @@
-# Source code & build files
+# Source code & build files strictly blocked
 *.cs
 *.csproj
 *.sln
 bin/
 obj/
-*.dll
 *.pdb
-*.exe
-*.zip
-*.log
-*.tmp
 .vs/
 .idea/
+*.tmp
+*.log

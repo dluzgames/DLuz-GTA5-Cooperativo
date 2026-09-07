@@ -1,8 +1,8 @@
-# 🎮 DLuz GTA 5 Cooperativo v2.0 (Mod 2 Jogadores na Campanha)
+# 🎮 DLuz GTA 5 Cooperativo v2.0.1 (Mod 2 Jogadores na Campanha)
 
 ![DLuz Games GTA 5 Banner](media/installer_header.png)
 
-[![Versão](https://img.shields.io/badge/Versão-2.0.0-gold.svg)](https://github.com/dluzgames/DLuz-GTA5-Cooperativo/releases)
+[![Versão](https://img.shields.io/badge/Versão-2.0.1-gold.svg)](https://github.com/dluzgames/DLuz-GTA5-Cooperativo/releases)
 [![Plataforma](https://img.shields.io/badge/Plataforma-GTA%20V%20(PC)-blue.svg)](https://github.com/dluzgames/DLuz-GTA5-Cooperativo)
 [![YouTube](https://img.shields.io/badge/YouTube-Joga%20DLuz-red.svg)](https://www.youtube.com/@jogadluz)
 [![Loja Oficial](https://img.shields.io/badge/Loja-DLuz%20Games-green.svg)](https://loja.dluz.com.br)
@@ -11,9 +11,19 @@ O **DLuz GTA 5 Cooperativo** é o mod definitivo que permite jogar o **Modo Hist
 
 ---
 
+## 📁 Estrutura deste Repositório
+
+- 📂 **[`dist/`](dist/)** — Contém o Instalador Oficial 1-Clique compilado (`DLuz_GTA5_Cooperativo_Instalador.exe`).
+- 📂 **[`manual_install/`](manual_install/)** — Arquivos compilados do mod prontos para instalação manual (copiar e colar direto na pasta raiz do GTA V).
+- 📂 **[`media/`](media/)** — Identidade visual e banners em alta definição gerados por IA.
+- 📄 **[`LEIA-ME_CONTROLES.txt`](LEIA-ME_CONTROLES.txt)** — Guia rápido de atalhos e mapeamento de botões.
+- 📄 **[`DLuz Games - Guia Cooperativo.txt`](DLuz%20Games%20-%20Guia%20Cooperativo.txt)** — Instruções detalhadas de configuração.
+
+---
+
 ## 📥 Downloads Oficiais (Releases)
 
-Baixe diretamente na aba de **[Releases Oficiais](https://github.com/dluzgames/DLuz-GTA5-Cooperativo/releases/latest)**:
+Baixe diretamente na aba de **[Releases Oficiais (v2.0.1)](https://github.com/dluzgames/DLuz-GTA5-Cooperativo/releases/latest)**:
 
 | Arquivo | Descrição | Link Direto |
 | :--- | :--- | :--- |
@@ -22,14 +32,19 @@ Baixe diretamente na aba de **[Releases Oficiais](https://github.com/dluzgames/D
 
 ---
 
-## ⚡ Principais Recursos
+## ⚡ Principais Recursos & Melhorias da v2.0.1
 
 - 👥 **Campanha em Dupla:** Jogue as missões da história do GTA V juntos, entrando nos mesmos carros, realizando assaltos e trocas de tiro.
+- 🎯 **Compatibilidade Total com Controles (v2.0.1):**
+  - Detecção automática de controles **PlayStation (PS4 DualShock 4 e PS5 DualSense)** e **Xbox (360, One, Series)** sem precisar de DS4Windows ou emuladores.
+  - Correção definitiva do analógico direito (câmera perfeitamente estável em repouso e suave em movimento).
+  - Mapeamento nativo dos botões do PS4 ($\times$ correr/selecionar, $\square$ pular, $\bigcirc$ recarregar, $\triangle$ veículos, Options menu/spawn).
+  - Trava anti-giro de câmera fail-safe contra valores nulos de eixos.
 - ◫ **Tela Dividida Dinâmica:** Pressione `[K]` para alternar entre tela única compartilhada ou tela dividida (horizontal ou vertical).
-- 🎮 **Suporte a Múltiplos Controles:** Conecte 2 controles USB/Bluetooth (Xbox, PlayStation, genéricos) ou jogue no Teclado/Mouse (P1) e Controle (P2).
+- 🎮 **Suporte a 2 Controles ou Teclado + Controle:** Jogue no Teclado/Mouse (P1) e Controle (P2), ou com 2 Controles conectados ao mesmo tempo.
 - 🇧🇷 **100% em Português (PT-BR):** Menus, avisos, notificações e configurações totalmente traduzidos.
 - 🎨 **Padrão Visual DLuz Games:** Menu in-game estilizado com arte oficial do canal gerada com Nano Banana 2.
-- 🛡️ **Segurança Anti-Ban:** Modo exclusivo para o singleplayer offline. Desinstalador 1-clique que limpa o jogo para voltar ao GTA Online sem riscos.
+- 🛡️ **Segurança Anti-Ban:** Modo exclusivo para o singleplayer offline com parâmetro `-nobattleye -noBE`. Desinstalador 1-clique para voltar ao GTA Online sem riscos.
 
 ---
 

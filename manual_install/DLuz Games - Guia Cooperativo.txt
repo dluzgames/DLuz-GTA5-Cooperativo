@@ -1,0 +1,39 @@
+﻿======================================================
+         DLUZ GTA 5 COOPERATIVO (2 JOGADORES)
+======================================================
+Desenvolvido & Adaptado por: DLuz Games
+Canal Oficial: Joga DLuz (youtube.com/@jogadluz)
+
+--- COMANDOS E ATALHOS NO JOGO ---
+[ N ] ou [ Start no Controle ]:
+  -> Spawna ou remove o Jogador 2.
+
+[ Page Up ]:
+  -> Abre o Menu de Configuração Completo (100% em Português).
+  -> Permite spawnar, curar, teleportar, escolher armas, roupas, 
+     modelos e configurar os controles.
+
+[ K ]:
+  -> Ativa ou alterna a Tela Dividida (Splitscreen Horizontal/Vertical).
+
+[ * no Teclado Numérico ]:
+  -> Alterna entre Modo Cooperativo de Missões e Modo Duelo (PVP).
+
+[ Page Down ]:
+  -> Troca rápida de personagem do Jogador 2.
+
+[ . no NumPad ]:
+  -> Mirar / Travar mira no alvo mais próximo.
+
+[ 0 no NumPad ]:
+  -> Agachar com o Jogador 2.
+
+[ F4 ]:
+  -> Abre o Native Trainer oficial (Spawnar Carros, Clima, etc).
+
+--- COMO JOGAR EM 2 PESSOAS ---
+1. Conecte 2 controles no PC (ou jogue Teclado/Mouse no P1 e Controle no P2).
+2. Abra o GTA V no Modo História.
+3. Aperte [ Page Up ] e vá em "Selecionar Controle do Jogador 2".
+4. Escolha o controle desejado.
+5. Aperte [ N ] para spawnar o parceiro e [ K ] para ativar a Tela Dividida!

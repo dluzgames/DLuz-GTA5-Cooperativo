@@ -1,0 +1,68 @@
+=======================================================================
+               DLUZ GTA 5 COOPERATIVO v2.0 — GUIA OFICIAL
+                  Criado por DLuz Games | Canal Joga DLuz
+=======================================================================
+
+Parabéns por baixar o Mod Cooperativo oficial da DLuz Games!
+Com este mod você pode jogar a campanha completa do GTA 5 com 2 jogadores
+no mesmo computador, usando Tela Dividida (Splitscreen) ou a mesma tela!
+
+-----------------------------------------------------------------------
+1. COMO INSTALAR:
+-----------------------------------------------------------------------
+1. Abra o executável: "DLuz_GTA5_Cooperativo_Instalador.exe".
+2. O aplicativo detecta a sua pasta do GTA V automaticamente.
+3. Se você possui uma Chave PRO, digite-a no campo correspondente e clique
+   em "⚡ Ativar Chave PRO".
+4. Clique no botão verde: "⚡ INJETAR E INSTALAR MOD COOP".
+5. Pronto! Abra o seu GTA V pelo launcher normalmente.
+
+-----------------------------------------------------------------------
+2. COMANDOS E CONTROLES NO JOGO:
+-----------------------------------------------------------------------
+• [ N ] ou [ Start no Controle do P2 ]:
+  Spawna o Jogador 2 instantaneamente ao seu lado no jogo.
+
+• [ Page Up ]:
+  Abre o Menu de Configuração do Mod (100% em Português do Brasil).
+  Permite configurar controles, modo de mira (Lock-On / Livre),
+  trocar de skin/personagem, escolher trajes e armas.
+
+• [ K ]:
+  Ativa ou alterna a Tela Dividida (Splitscreen Horizontal/Vertical).
+
+• [ F4 ]  ★ [EXCLUSIVO VERSÃO PRO]:
+  Abre o Native Trainer oficial para spawnar qualquer veículo,
+  dinheiro infinito, mudar clima, teletransporte e cheats.
+
+• [ * no Teclado ]:
+  Alterna entre o Modo Cooperativo (Parceiros de Missão) e Duelo (PVP).
+
+• [ . no Teclado Numérico ]:
+  Trava a mira automaticamente no inimigo mais próximo.
+
+-----------------------------------------------------------------------
+3. COMO FUNCIONA A VERSÃO PRO (CHEATS & F4 TRAINER):
+-----------------------------------------------------------------------
+• Versão Gratuita (Free):
+  O modo cooperativo completo para 2 jogadores na campanha é 100% gratuito.
+  Você pode jogar todas as missões da história com seu amigo.
+
+• Versão PRO Vitalícia:
+  Desbloqueia os cheats avançados:
+  - Native Trainer [F4] completo liberado
+  - Modo Invencível (GodMode) para o Jogador 2
+  - Cura instantânea e reviver rápido
+  - Teletransporte do Jogador 2 nas missões
+  - Arsenal total de armas liberado
+
+Para adquirir sua chave vitalícia, acesse:
+👉 https://loja.dluz.com.br
+
+-----------------------------------------------------------------------
+4. CANAIS OFICIAIS DLUZ:
+-----------------------------------------------------------------------
+▶ YouTube: https://www.youtube.com/@jogadluz
+🛒 Loja Oficial: https://loja.dluz.com.br
+🌐 Site Oficial: https://dluzgames.com.br
+=======================================================================

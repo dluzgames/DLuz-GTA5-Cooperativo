@@ -1,0 +1,32 @@
+﻿======================================================
+       DLUZ GTA 5 COOPERATIVO (MOD 2 JOGADORES)
+======================================================
+Canal Oficial: Joga DLuz
+YouTube: https://www.youtube.com/@jogadluz
+
+--- CONTROLES DENTRO DO JOGO ---
+[ N ] ou [ Start no Controle ]:
+  -> Spawna o Jogador 2 ao seu lado.
+
+[ Page Up ]:
+  -> Abre o Menu Completo do Mod (Totalmente em Portugus).
+  -> Permite escolher armas, skins, roupas, vida infinita (Godmode),
+     modelos de pedestres e selecionar os controles.
+
+[ K ]:
+  -> Ativa ou alterna a Tela Dividida (Splitscreen) Horizontal/Vertical.
+
+[ F4 ]:
+  -> Abre o Native Trainer (Menu extra de veculos, clima, etc).
+
+--- COMO CONFIGURAR OS CONTROLES ---
+1. Conecte os dois controles no PC (ou use Teclado para Jogador 1 e Controle para Jogador 2).
+2. Dentro do GTA V, aperte [Page Up] para abrir o menu do Mod.
+3. V na opo "Selecionar Controle" e escolha o controle desejado para o Jogador 2.
+4. Pronto! O Jogador 2 responder exclusivamente ao controle selecionado.
+
+--- MISSES NO MODO HISTRIA ---
+- Entrem no mesmo veculo para fazer misses juntos!
+- O Mod mantm o Jogador 2 ativo durante as misses da campanha offline.
+
+* Desenvolvido para diverso dos inscritos do Canal Joga DLuz!
