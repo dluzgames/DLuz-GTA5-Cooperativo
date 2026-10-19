@@ -41,6 +41,16 @@ no mesmo computador, usando Tela Dividida (Splitscreen) ou a mesma tela!
 • [ . no Teclado Numérico ]:
   Trava a mira automaticamente no inimigo mais próximo.
 
+• CONTROLE DO JOGADOR 2 (v2.0.2):
+  1. Ligue os controles no PC antes de abrir o GTA V.
+  2. No jogo, aperte [ Page Up ] > "Selecionar Controle do Jogador 2"
+     e escolha o controle do P2 na lista.
+  3. Se houver mais de um controle ligado, aparece um aviso: o P2 aperta
+     [ A ] no controle Xbox (ou [ X ] no controle de PS4/PS5 ligado no PC)
+     uma vez. Assim o mod sabe qual é o controle dele e o controle do P2
+     para de mexer no personagem do P1.
+  Funciona com controle Xbox, controle de PS4/PS5 ligado no PC e genéricos.
+
 -----------------------------------------------------------------------
 3. COMO FUNCIONA A VERSÃO PRO (CHEATS & F4 TRAINER):
 -----------------------------------------------------------------------
