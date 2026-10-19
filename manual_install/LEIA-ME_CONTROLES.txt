@@ -1,32 +1,78 @@
-﻿======================================================
-       DLUZ GTA 5 COOPERATIVO (MOD 2 JOGADORES)
-======================================================
-Canal Oficial: Joga DLuz
-YouTube: https://www.youtube.com/@jogadluz
+=======================================================================
+               DLUZ GTA 5 COOPERATIVO v2.0 — GUIA OFICIAL
+                  Criado por DLuz Games | Canal Joga DLuz
+=======================================================================
 
---- CONTROLES DENTRO DO JOGO ---
-[ N ] ou [ Start no Controle ]:
-  -> Spawna o Jogador 2 ao seu lado.
+Parabéns por baixar o Mod Cooperativo oficial da DLuz Games!
+Com este mod você pode jogar a campanha completa do GTA 5 com 2 jogadores
+no mesmo computador, usando Tela Dividida (Splitscreen) ou a mesma tela!
 
-[ Page Up ]:
-  -> Abre o Menu Completo do Mod (Totalmente em Portugus).
-  -> Permite escolher armas, skins, roupas, vida infinita (Godmode),
-     modelos de pedestres e selecionar os controles.
+-----------------------------------------------------------------------
+1. COMO INSTALAR:
+-----------------------------------------------------------------------
+1. Abra o executável: "DLuz_GTA5_Cooperativo_Instalador.exe".
+2. O aplicativo detecta a sua pasta do GTA V automaticamente.
+3. Se você possui uma Chave PRO, digite-a no campo correspondente e clique
+   em "⚡ Ativar Chave PRO".
+4. Clique no botão verde: "⚡ INJETAR E INSTALAR MOD COOP".
+5. Pronto! Abra o seu GTA V pelo launcher normalmente.
 
-[ K ]:
-  -> Ativa ou alterna a Tela Dividida (Splitscreen) Horizontal/Vertical.
+-----------------------------------------------------------------------
+2. COMANDOS E CONTROLES NO JOGO:
+-----------------------------------------------------------------------
+• [ N ] ou [ Start no Controle do P2 ]:
+  Spawna o Jogador 2 instantaneamente ao seu lado no jogo.
 
-[ F4 ]:
-  -> Abre o Native Trainer (Menu extra de veculos, clima, etc).
+• [ Page Up ]:
+  Abre o Menu de Configuração do Mod (100% em Português do Brasil).
+  Permite configurar controles, modo de mira (Lock-On / Livre),
+  trocar de skin/personagem, escolher trajes e armas.
 
---- COMO CONFIGURAR OS CONTROLES ---
-1. Conecte os dois controles no PC (ou use Teclado para Jogador 1 e Controle para Jogador 2).
-2. Dentro do GTA V, aperte [Page Up] para abrir o menu do Mod.
-3. V na opo "Selecionar Controle" e escolha o controle desejado para o Jogador 2.
-4. Pronto! O Jogador 2 responder exclusivamente ao controle selecionado.
+• [ K ]:
+  Ativa ou alterna a Tela Dividida (Splitscreen Horizontal/Vertical).
 
---- MISSES NO MODO HISTRIA ---
-- Entrem no mesmo veculo para fazer misses juntos!
-- O Mod mantm o Jogador 2 ativo durante as misses da campanha offline.
+• [ F4 ]  ★ [EXCLUSIVO VERSÃO PRO]:
+  Abre o Native Trainer oficial para spawnar qualquer veículo,
+  dinheiro infinito, mudar clima, teletransporte e cheats.
 
-* Desenvolvido para diverso dos inscritos do Canal Joga DLuz!
+• [ * no Teclado ]:
+  Alterna entre o Modo Cooperativo (Parceiros de Missão) e Duelo (PVP).
+
+• [ . no Teclado Numérico ]:
+  Trava a mira automaticamente no inimigo mais próximo.
+
+• CONTROLE DO JOGADOR 2 (v2.0.2):
+  1. Ligue os controles no PC antes de abrir o GTA V.
+  2. No jogo, aperte [ Page Up ] > "Selecionar Controle do Jogador 2"
+     e escolha o controle do P2 na lista.
+  3. Se houver mais de um controle ligado, aparece um aviso: o P2 aperta
+     [ A ] no controle Xbox (ou [ X ] no controle de PS4/PS5 ligado no PC)
+     uma vez. Assim o mod sabe qual é o controle dele e o controle do P2
+     para de mexer no personagem do P1.
+  Funciona com controle Xbox, controle de PS4/PS5 ligado no PC e genéricos.
+
+-----------------------------------------------------------------------
+3. COMO FUNCIONA A VERSÃO PRO (CHEATS & F4 TRAINER):
+-----------------------------------------------------------------------
+• Versão Gratuita (Free):
+  O modo cooperativo completo para 2 jogadores na campanha é 100% gratuito.
+  Você pode jogar todas as missões da história com seu amigo.
+
+• Versão PRO Vitalícia:
+  Desbloqueia os cheats avançados:
+  - Native Trainer [F4] completo liberado
+  - Modo Invencível (GodMode) para o Jogador 2
+  - Cura instantânea e reviver rápido
+  - Teletransporte do Jogador 2 nas missões
+  - Arsenal total de armas liberado
+
+Para adquirir sua chave vitalícia, acesse:
+👉 https://loja.dluz.com.br
+
+-----------------------------------------------------------------------
+4. CANAIS OFICIAIS DLUZ:
+-----------------------------------------------------------------------
+▶ YouTube: https://www.youtube.com/@jogadluz
+🛒 Loja Oficial: https://loja.dluz.com.br
+🌐 Site Oficial: https://dluzgames.com.br
+=======================================================================
